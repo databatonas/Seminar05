@@ -1,0 +1,2 @@
+﻿// Проба
+Console.WriteLine("Текст");
